@@ -23,7 +23,7 @@ Existing multi-agent frameworks face significant limitations when applied to Lar
 
 <div align="center">
     <figure>
-        <img src="/Users/apple/code/ECON/ECON/assets/compare.jpg" alt="ECON vs Traditional MAD Comparison" width="800">
+        <img src="assets/compare.jpg" alt="ECON vs Traditional MAD Comparison" width="800">
         <br>
         <p><em>Comparison between ECON and traditional Multi-Agent Debate (MAD) approaches</em></p>
     </figure>
@@ -39,7 +39,7 @@ Current multi-agent LLM systems suffer from:
 
 <div align="center">
     <figure>
-        <img src="/Users/apple/code/ECON/ECON/assets/framework.jpg" alt="ECON Framework Architecture" width="800">
+        <img src="assets/framework.jpg" alt="ECON Framework Architecture" width="800">
         <br>
         <p><em>ECON's two-stage coordination architecture with Bayesian Nash Equilibrium</em></p>
     </figure>
