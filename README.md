@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>ICML 2025' From Debate to Equilibrium: Belief‑Driven Multi‑Agent LLM Reasoning via Bayesian Nash Equilibrium</h1>
+<h1>From Debate to Equilibrium: Belief‑Driven Multi‑Agent LLM Reasoning via Bayesian Nash Equilibrium</h1>
 <h3>Efficient Coordination via Nash Equilibrium for Multi-Agent LLM Framework</h3>
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
