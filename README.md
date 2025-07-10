@@ -275,11 +275,10 @@ Three types of rewards guide the learning process:
 If you find this work useful for your research, please cite:
 
 ```bibtex
-@misc{yi2025debateequilibriumbeliefdrivenmultiagent,
 @inproceedings{
 yi2025from,
 title={From Debate to Equilibrium: Belief\nobreakdash-Driven Multi\nobreakdash-Agent {LLM} Reasoning via Bayesian Nash Equilibrium},
-author={Xie Yi and Zhanke Zhou and Chentao Cao and Qiyu Niu and Tongliang Liu and Bo Han},
+author={Yi Xie and Zhanke Zhou and Chentao Cao and Qiyu Niu and Tongliang Liu and Bo Han},
 booktitle={Forty-second International Conference on Machine Learning},
 year={2025},
 url={https://openreview.net/forum?id=RQwexjUCxm}
