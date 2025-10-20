@@ -94,7 +94,7 @@ For development or customization, clone the repository and set up the environmen
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ECON.git
+git clone https://github.com/tmlr-group/ECON.git
 cd ECON
 
 # Create and activate conda environment  
